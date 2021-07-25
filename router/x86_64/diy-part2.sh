@@ -27,7 +27,7 @@ rm -rf package/openwrt-ssrplus/luci-app-ssr-plus/po/zh_Hans 2>/dev/null
 
 # Mydiy-luci-app-and-theme（use to /.config luci-app&theme）
 # ==========luci-app-url==========
-# git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
+ git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
 # ==========luci-theme-url==========
 # git clone https://github.com/openwrt-develop/luci-theme-atmaterial.git package/luci-theme-atmaterial
 # svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/luci-theme-edge package/luci-theme-edge
